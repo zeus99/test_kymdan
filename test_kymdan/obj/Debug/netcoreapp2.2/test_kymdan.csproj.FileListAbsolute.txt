@@ -1,0 +1,14 @@
+C:\Users\Anthony\source\repos\test_kymdan\test_kymdan\bin\Debug\netcoreapp2.2\test_kymdan.deps.json
+C:\Users\Anthony\source\repos\test_kymdan\test_kymdan\bin\Debug\netcoreapp2.2\test_kymdan.runtimeconfig.json
+C:\Users\Anthony\source\repos\test_kymdan\test_kymdan\bin\Debug\netcoreapp2.2\test_kymdan.runtimeconfig.dev.json
+C:\Users\Anthony\source\repos\test_kymdan\test_kymdan\bin\Debug\netcoreapp2.2\test_kymdan.dll
+C:\Users\Anthony\source\repos\test_kymdan\test_kymdan\obj\Debug\netcoreapp2.2\test_kymdan.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\test_kymdan\test_kymdan\obj\Debug\netcoreapp2.2\test_kymdan.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\test_kymdan\test_kymdan\obj\Debug\netcoreapp2.2\test_kymdan.RazorAssemblyInfo.cache
+C:\Users\Anthony\source\repos\test_kymdan\test_kymdan\obj\Debug\netcoreapp2.2\test_kymdan.RazorAssemblyInfo.cs
+C:\Users\Anthony\source\repos\test_kymdan\test_kymdan\obj\Debug\netcoreapp2.2\test_kymdan.AssemblyInfoInputs.cache
+C:\Users\Anthony\source\repos\test_kymdan\test_kymdan\obj\Debug\netcoreapp2.2\test_kymdan.AssemblyInfo.cs
+C:\Users\Anthony\source\repos\test_kymdan\test_kymdan\obj\Debug\netcoreapp2.2\test_kymdan.RazorTargetAssemblyInfo.cache
+C:\Users\Anthony\source\repos\test_kymdan\test_kymdan\bin\Debug\netcoreapp2.2\test_kymdan.pdb
+C:\Users\Anthony\source\repos\test_kymdan\test_kymdan\obj\Debug\netcoreapp2.2\test_kymdan.dll
+C:\Users\Anthony\source\repos\test_kymdan\test_kymdan\obj\Debug\netcoreapp2.2\test_kymdan.pdb
