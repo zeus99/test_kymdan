@@ -2,6 +2,53 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.2": {
+      "IdentityModel/3.6.1": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2",
+          "System.Text.Encodings.Web": "4.4.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/IdentityModel.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/IdentityModel.dll": {}
+        }
+      },
+      "IdentityServer4/2.2.0": {
+        "type": "package",
+        "dependencies": {
+          "IdentityModel": "3.6.1",
+          "Microsoft.AspNetCore.Authentication": "2.0.3",
+          "Microsoft.AspNetCore.Authentication.Cookies": "2.0.3",
+          "Microsoft.AspNetCore.Authentication.OpenIdConnect": "2.0.3",
+          "Microsoft.AspNetCore.Cors": "2.0.2",
+          "Microsoft.Extensions.Caching.Memory": "2.0.1",
+          "Microsoft.Extensions.Logging": "2.0.1",
+          "Microsoft.Extensions.Options.ConfigurationExtensions": "2.0.1",
+          "System.IdentityModel.Tokens.Jwt": "5.2.1",
+          "System.Security.Cryptography.Cng": "4.4.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/IdentityServer4.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/IdentityServer4.dll": {}
+        }
+      },
+      "IdentityServer4.AspNetIdentity/2.1.0": {
+        "type": "package",
+        "dependencies": {
+          "IdentityServer4": "2.1.1",
+          "Microsoft.AspNetCore.Identity": "2.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/IdentityServer4.AspNetIdentity.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/IdentityServer4.AspNetIdentity.dll": {}
+        }
+      },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
         "type": "package",
         "dependencies": {
@@ -2893,6 +2940,9 @@
           "lib/netstandard1.6/NuGet.Frameworks.dll": {}
         }
       },
+      "RefactoringEssentials/5.6.0": {
+        "type": "package"
+      },
       "Remotion.Linq/2.2.0": {
         "type": "package",
         "dependencies": {
@@ -4724,6 +4774,53 @@
     }
   },
   "libraries": {
+    "IdentityModel/3.6.1": {
+      "sha512": "JvpnyoP49cF16sImPcdM0A7keVGs+mpG7KCnJ3c1zOwsxXexhN/hqkZua6Cr/9KZcVw6/wsRQfEgY3QMsjsQpw==",
+      "type": "package",
+      "path": "identitymodel/3.6.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "identitymodel.3.6.1.nupkg.sha512",
+        "identitymodel.nuspec",
+        "lib/net452/IdentityModel.dll",
+        "lib/net452/IdentityModel.xml",
+        "lib/net461/IdentityModel.dll",
+        "lib/net461/IdentityModel.xml",
+        "lib/netstandard1.4/IdentityModel.dll",
+        "lib/netstandard1.4/IdentityModel.xml",
+        "lib/netstandard2.0/IdentityModel.dll",
+        "lib/netstandard2.0/IdentityModel.xml"
+      ]
+    },
+    "IdentityServer4/2.2.0": {
+      "sha512": "diozvMQnHiZH4EwcG3X1Si/AIq1yN7hLuQ0Dv3lr1uCuUBRYJV2HUEICnFv4ZLWVzQePI0Q1elC8cT7X8PHssg==",
+      "type": "package",
+      "path": "identityserver4/2.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "identityserver4.2.2.0.nupkg.sha512",
+        "identityserver4.nuspec",
+        "lib/netstandard2.0/IdentityServer4.dll",
+        "lib/netstandard2.0/IdentityServer4.pdb",
+        "lib/netstandard2.0/IdentityServer4.xml"
+      ]
+    },
+    "IdentityServer4.AspNetIdentity/2.1.0": {
+      "sha512": "r1QXwLW11a4+BxTy/2GUFzAYLAulKQhMSDs/fFCai6r1oH0btv6Dw7lvDNyh8wn0oeonMQvxxzJKzLbMqYZcNw==",
+      "type": "package",
+      "path": "identityserver4.aspnetidentity/2.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "identityserver4.aspnetidentity.2.1.0.nupkg.sha512",
+        "identityserver4.aspnetidentity.nuspec",
+        "lib/netstandard2.0/IdentityServer4.AspNetIdentity.dll",
+        "lib/netstandard2.0/IdentityServer4.AspNetIdentity.pdb",
+        "lib/netstandard2.0/IdentityServer4.AspNetIdentity.xml"
+      ]
+    },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "sha512": "owAlEIUZXWSnkK8Z1c+zR47A0X6ykF4XjbPok4lQKNuciUfHLGPd6QnI+rt/8KlQ17PmF+I4S3f+m+Qe4IvViw==",
       "type": "package",
@@ -8098,6 +8195,21 @@
         "lib/netstandard1.6/NuGet.Frameworks.xml",
         "nuget.frameworks.4.7.0.nupkg.sha512",
         "nuget.frameworks.nuspec"
+      ]
+    },
+    "RefactoringEssentials/5.6.0": {
+      "sha512": "+Pzgxi43EDSLipnXOAYl9tO+78ivupQRTQCY6/OxsV0GvOsul+Sh2mYellZLk//iCcWawsXABxOAABttptBNEg==",
+      "type": "package",
+      "path": "refactoringessentials/5.6.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/RefactoringEssentials.dll",
+        "refactoringessentials.5.6.0.nupkg.sha512",
+        "refactoringessentials.nuspec",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
       ]
     },
     "Remotion.Linq/2.2.0": {
@@ -12935,13 +13047,17 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "IdentityServer4 >= 2.2.0",
+      "IdentityServer4.AspNetIdentity >= 2.1.0",
       "Microsoft.AspNetCore.App >= 2.2.0",
+      "Microsoft.AspNetCore.Identity >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.EntityFrameworkCore.Design >= 2.2.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.2.1",
       "Microsoft.EntityFrameworkCore.Tools >= 2.2.1",
       "Microsoft.NETCore.App >= 2.2.0",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.2.3"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.2.3",
+      "RefactoringEssentials >= 5.6.0"
     ]
   },
   "packageFolders": {
@@ -12951,11 +13067,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anthony\\source\\repos\\test_kymdan\\test_kymdan\\test_kymdan.csproj",
+      "projectUniqueName": "C:\\Users\\Anthony\\Documents\\test_kymdan\\test_kymdan\\test_kymdan.csproj",
       "projectName": "test_kymdan",
-      "projectPath": "C:\\Users\\Anthony\\source\\repos\\test_kymdan\\test_kymdan\\test_kymdan.csproj",
+      "projectPath": "C:\\Users\\Anthony\\Documents\\test_kymdan\\test_kymdan\\test_kymdan.csproj",
       "packagesPath": "C:\\Users\\Anthony\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anthony\\source\\repos\\test_kymdan\\test_kymdan\\obj\\",
+      "outputPath": "C:\\Users\\Anthony\\Documents\\test_kymdan\\test_kymdan\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12985,11 +13101,23 @@
     "frameworks": {
       "netcoreapp2.2": {
         "dependencies": {
+          "IdentityServer4": {
+            "target": "Package",
+            "version": "[2.2.0, )"
+          },
+          "IdentityServer4.AspNetIdentity": {
+            "target": "Package",
+            "version": "[2.1.0, )"
+          },
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
             "target": "Package",
             "version": "[2.2.0, )",
             "autoReferenced": true
+          },
+          "Microsoft.AspNetCore.Identity": {
+            "target": "Package",
+            "version": "[2.2.0, )"
           },
           "Microsoft.AspNetCore.Razor.Design": {
             "suppressParent": "All",
@@ -13019,6 +13147,12 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[2.2.3, )"
+          },
+          "RefactoringEssentials": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[5.6.0, )"
           }
         },
         "imports": [
