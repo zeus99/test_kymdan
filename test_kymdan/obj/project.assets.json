@@ -13061,23 +13061,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Anthony\\.nuget\\packages\\": {},
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anthony\\Documents\\test_kymdan\\test_kymdan\\test_kymdan.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Documents\\GitHub\\test_kymdan\\test_kymdan\\test_kymdan.csproj",
       "projectName": "test_kymdan",
-      "projectPath": "C:\\Users\\Anthony\\Documents\\test_kymdan\\test_kymdan\\test_kymdan.csproj",
-      "packagesPath": "C:\\Users\\Anthony\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anthony\\Documents\\test_kymdan\\test_kymdan\\obj\\",
+      "projectPath": "C:\\Users\\ASUS\\Documents\\GitHub\\test_kymdan\\test_kymdan\\test_kymdan.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS\\Documents\\GitHub\\test_kymdan\\test_kymdan\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Anthony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

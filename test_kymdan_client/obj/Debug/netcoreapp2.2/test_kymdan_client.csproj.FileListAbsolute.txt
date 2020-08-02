@@ -9,3 +9,17 @@ C:\Users\Anthony\Documents\test_kymdan\test_kymdan_client\obj\Debug\netcoreapp2.
 C:\Users\Anthony\Documents\test_kymdan\test_kymdan_client\obj\Debug\netcoreapp2.2\test_kymdan_client.AssemblyInfoInputs.cache
 C:\Users\Anthony\Documents\test_kymdan\test_kymdan_client\obj\Debug\netcoreapp2.2\test_kymdan_client.AssemblyInfo.cs
 C:\Users\Anthony\Documents\test_kymdan\test_kymdan_client\obj\Debug\netcoreapp2.2\test_kymdan_client.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan_client\bin\Debug\netcoreapp2.2\test_kymdan_client.deps.json
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan_client\bin\Debug\netcoreapp2.2\test_kymdan_client.runtimeconfig.json
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan_client\bin\Debug\netcoreapp2.2\test_kymdan_client.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan_client\bin\Debug\netcoreapp2.2\test_kymdan_client.dll
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan_client\bin\Debug\netcoreapp2.2\test_kymdan_client.pdb
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan_client\obj\Debug\netcoreapp2.2\test_kymdan_client.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan_client\obj\Debug\netcoreapp2.2\test_kymdan_client.RazorAssemblyInfo.cache
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan_client\obj\Debug\netcoreapp2.2\test_kymdan_client.RazorAssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan_client\obj\Debug\netcoreapp2.2\test_kymdan_client.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan_client\obj\Debug\netcoreapp2.2\test_kymdan_client.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan_client\obj\Debug\netcoreapp2.2\test_kymdan_client.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan_client\obj\Debug\netcoreapp2.2\test_kymdan_client.dll
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan_client\obj\Debug\netcoreapp2.2\test_kymdan_client.pdb
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan_client\obj\Debug\netcoreapp2.2\test_kymdan_client.csprojAssemblyReference.cache

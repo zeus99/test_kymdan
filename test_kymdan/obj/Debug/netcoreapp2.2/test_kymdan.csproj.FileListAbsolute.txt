@@ -26,3 +26,17 @@ C:\Users\Anthony\Documents\test_kymdan\test_kymdan\obj\Debug\netcoreapp2.2\test_
 C:\Users\Anthony\Documents\test_kymdan\test_kymdan\obj\Debug\netcoreapp2.2\test_kymdan.dll
 C:\Users\Anthony\Documents\test_kymdan\test_kymdan\obj\Debug\netcoreapp2.2\test_kymdan.pdb
 C:\Users\Anthony\Documents\test_kymdan\test_kymdan\obj\Debug\netcoreapp2.2\test_kymdan.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan\bin\Debug\netcoreapp2.2\test_kymdan.deps.json
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan\bin\Debug\netcoreapp2.2\test_kymdan.runtimeconfig.json
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan\bin\Debug\netcoreapp2.2\test_kymdan.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan\bin\Debug\netcoreapp2.2\test_kymdan.dll
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan\bin\Debug\netcoreapp2.2\test_kymdan.pdb
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan\obj\Debug\netcoreapp2.2\test_kymdan.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan\obj\Debug\netcoreapp2.2\test_kymdan.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan\obj\Debug\netcoreapp2.2\test_kymdan.RazorAssemblyInfo.cache
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan\obj\Debug\netcoreapp2.2\test_kymdan.RazorAssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan\obj\Debug\netcoreapp2.2\test_kymdan.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan\obj\Debug\netcoreapp2.2\test_kymdan.AssemblyInfo.cs
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan\obj\Debug\netcoreapp2.2\test_kymdan.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan\obj\Debug\netcoreapp2.2\test_kymdan.dll
+C:\Users\ASUS\Documents\GitHub\test_kymdan\test_kymdan\obj\Debug\netcoreapp2.2\test_kymdan.pdb

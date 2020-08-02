@@ -12,18 +12,22 @@ namespace test_kymdan
             new IdentityResources.OpenId(),
             new IdentityResources.Email(),
             new IdentityResources.Profile(),
+
         };
         }
         public static IEnumerable<ApiResource> GetApiResources()
         {
             return new List<ApiResource>
         {
-            new ApiResource("api1", "My API")
+            new ApiResource("admin", "My API"),
+            new ApiResource("application", "My API")
+
         };
         }
         public static IEnumerable<Client> GetClients()
         {
             // client credentials client
+
             return new List<Client>
         {
             new Client
@@ -34,7 +38,7 @@ namespace test_kymdan
                 {
                     new Secret("secret".Sha256())
                 },
-                AllowedScopes = { "api1", "openid", "profile", "email" }
+                AllowedScopes = { "admin", "application","openid", "profile", "email"}
             },
         };
         }
